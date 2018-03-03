@@ -1,0 +1,60 @@
+/* add your CSS here */ 
+.wstęp {
+    font-style: italic;
+    font-size: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.picture {
+    border: solid 4px rgb(69, 250, 194);
+    width: 300px;
+    height: 200px;
+    margin-left: 50px;
+    }
+
+.second {
+    width: 300px;
+    height: 400px;
+    margin-left: 3.25em;
+    margin-right: 7em;
+    margin-bottom: 2em;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: beige;
+    font-family:serif;
+}
+
+.title {
+    padding-left: 1.5em;
+}
+
+.first {
+    margin-left: 500px;    
+    width: 400px;
+    height: 750px;
+    border: solid 2px black;
+    background-color: rgb(204, 194, 194);
+    box-shadow: 15px 15px 18px 0px rgb(212, 207, 212);
+    padding: 0.5em;
+}
+
+.main list {
+    padding-left: 1em; 
+    font-size: 1em;
+    border-top: solid 25px rgb(69, 250, 194);    
+}
+
+.opis {
+    border-top: solid 25px rgb(69, 250, 194);
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 1em;
+}
+
+.list {
+    font-weight: bold;
+    list-style-type: none;
+    padding-left: 0.5em;
+     
+}
